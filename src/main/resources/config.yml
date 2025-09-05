@@ -1,1 +1,3 @@
-
+combatlog: true # Combat Log is Enabled or Disabled
+allowedplayers:
+  - 'foxiwq' # Players who can use /combatlog command
