@@ -1,0 +1,6 @@
+name: SimpleCombatLog
+version: '1.0-SNAPSHOT'
+main: CombatLog.CombatLog
+api-version: '1.21'
+commands:
+  combatlog:
